@@ -1,0 +1,61 @@
+// Screen
+// wwww.pozidea.com - Trabzon/Turkey
+
+@import "grids";
+body {
+  font-family: 'Lato' , sans-serif;
+}
+
+.under-construction{
+	width: 960px;
+	margin: 0px auto;
+	p{
+		margin-top: 100px;
+		text-align: center;
+		color: #231f20;
+		font-size: 30px;
+		font-weight: bold;
+	} 
+} 
+.pozidea-logo{
+	width: 960px;
+	margin: 0px auto;
+	a{
+		text-align: center;
+		display: block;
+		margin-top: 70px;
+		img{
+
+		}
+	}
+	a:hover{
+		
+	}
+}
+.mail{
+	width: 960px;
+	margin: 0px auto;
+	overflow:hidden;
+	.main{
+		width: 330px;
+		margin:0px auto;
+		margin-top: 50px;
+		.mail-icon{
+			float: left;
+			img{
+
+			}
+		}
+		.mail-adress{
+			float: left;
+			margin-left: 15px;
+			h3{
+				margin-top: 3px;
+				color: #80c342;
+				font-size: 30px;
+				font-weight: bold;
+
+			}
+		}
+	}
+}

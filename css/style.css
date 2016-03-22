@@ -1,0 +1,59 @@
+/* line 5, ../sass/style.scss */
+body {
+  font-family: 'Lato' , sans-serif;
+}
+
+/* line 9, ../sass/style.scss */
+.under-construction {
+  width: 960px;
+  margin: 0px auto;
+}
+/* line 12, ../sass/style.scss */
+.under-construction p {
+  margin-top: 100px;
+  text-align: center;
+  color: #231f20;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+/* line 20, ../sass/style.scss */
+.pozidea-logo {
+  width: 960px;
+  margin: 0px auto;
+}
+/* line 23, ../sass/style.scss */
+.pozidea-logo a {
+  text-align: center;
+  display: block;
+  margin-top: 70px;
+}
+
+/* line 35, ../sass/style.scss */
+.mail {
+  width: 960px;
+  margin: 0px auto;
+  overflow: hidden;
+}
+/* line 39, ../sass/style.scss */
+.mail .main {
+  width: 330px;
+  margin: 0px auto;
+  margin-top: 50px;
+}
+/* line 43, ../sass/style.scss */
+.mail .main .mail-icon {
+  float: left;
+}
+/* line 49, ../sass/style.scss */
+.mail .main .mail-adress {
+  float: left;
+  margin-left: 15px;
+}
+/* line 52, ../sass/style.scss */
+.mail .main .mail-adress h3 {
+  margin-top: 3px;
+  color: #80c342;
+  font-size: 30px;
+  font-weight: bold;
+}
